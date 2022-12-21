@@ -1,0 +1,48 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+canvas {
+    border: 3px solid green;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid rgb(1, 46, 246);
+}
+
+#start, #status {
+    font-size: 22px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background: black;
+}
+
+h4 {
+    background-color: blue;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+#footer {
+    margin-top: 430px;
+}
